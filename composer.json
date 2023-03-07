@@ -6,7 +6,7 @@
         "php": "^7.3|^8.0",
         "illuminate/support": "^8.0|^9.0|^10.0"
     },
-    "license": "pakdhe.id",
+    "license": "MIT",
     "authors": [
         {
             "name": "Saiful amin",

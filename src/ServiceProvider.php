@@ -9,7 +9,7 @@ class ServiceProvider extends BaseServiceProvider
     public function register()
     {
         $this->app->bind('pakdhe', function ($app) {
-            return new YourPackage();
+            return new Pakdhe();
         });
     }
 

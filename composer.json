@@ -1,0 +1,16 @@
+{
+    "name": "pakdhe/translator",
+    "description": "package yang digunakan untuk membuat translate secara otomatis",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "pakdhe.id",
+    "authors": [
+        {
+            "name": "Saiful amin",
+            "email": "saiful.aminx@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}

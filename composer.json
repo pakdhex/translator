@@ -17,6 +17,9 @@
     "autoload": {
         "psr-4": {
             "Pakdhe\\Translator\\": "src/"
-        }
+        },
+        "files": [
+            "database/migrations/2023_03_07_072729_create_translates_table.php"
+        ]
     }
 }
